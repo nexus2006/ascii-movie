@@ -1,4 +1,4 @@
-module gabe565.com/ascii-movie
+module github.com/nexus2006/ascii-movie
 
 go 1.24.0
 
